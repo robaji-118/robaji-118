@@ -2,9 +2,9 @@
 
 # Hi World! I'm Rojabby 👋
 
-### Fullstack Developer | Software Engineering Student
+### Frontend Developer | Software Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;SMKN+1+Purwosari+Student;Always+Learning+New+Tech;Building+Modern+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;SMKN+1+Purwosari+Student;Always+Learning+New+Tech;Building+Modern+Web+Apps" alt="Typing SVG" />
 
 </div>
 
@@ -16,9 +16,9 @@
 
 Hello! I'm **M Rojabby Syihabudin**
 
-I'm a **Fullstack Developer** and a student at **SMKN 1 Purwosari** majoring in **Software Engineering** (Rekayasa Perangkat Lunak). 
+I'm a **Frontend Developer** and a student at **SMKN 1 Purwosari** majoring in **Software Engineering** (Rekayasa Perangkat Lunak). 
 
-I specialize in both **frontend** and **backend development**, and I'm passionate about building modern web applications, learning new technologies, and solving real-world problems through code.
+I specialize in both **Frontend development**, and I'm passionate about building modern web applications, learning new technologies, and solving real-world problems through code.
 
 **Let's build something awesome together!** 🚀
 
@@ -94,9 +94,9 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+<h1> 🏆 GitHub Trophies </h1>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=robaji-118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
@@ -104,9 +104,10 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 ---
 
-## 📊 Contribution Graph
-
 <div align="center">
+
+<h1> 📊 Contribution Graph </h1>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robaji-118&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
@@ -114,7 +115,6 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
 
