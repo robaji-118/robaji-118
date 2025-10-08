@@ -1,59 +1,149 @@
-Hi World! I'm Rojabby 👋
-<!-- Jangan lupa ganti ikon tangan jika mau! -->
+<div align="center">
 
-🧑‍💻 About Me
-Hello I'm M Rojabby Syihabudin,
+# Hi World! I'm Rojabby 👋
 
-I'm a Fullstack Developer and a student at SMKN 1 Purwosari majoring in Software Engineering (Rekayasa Perangkat Lunak). I specialize in both frontend development, and I'm passionate about building modern web applications, learning new technologies, and solving real-world problems through code.
+### Fullstack Developer | Software Engineering Student
 
-Let's build something awesome together! 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;SMKN+1+Purwosari+Student;Always+Learning+New+Tech;Building+Modern+Web+Apps" alt="Typing SVG" />
 
-🛠️ Tech Stack & Tools
-<p align="center">
-<!-- Baris 1: Ikon Dasar -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+</div>
 
+---
 
+## 🧑‍💻 About Me
 
-<!-- Baris 2: Frameworks & Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-</p>
+<div align="center">
 
-🌐 Socials
-<!-- JANGAN LUPA GANTI "akun_anda" DENGAN USERNAME/URL ASLI ANDA -->
+Hello! I'm **M Rojabby Syihabudin**
 
-<p align="center">
+I'm a **Fullstack Developer** and a student at **SMKN 1 Purwosari** majoring in **Software Engineering** (Rekayasa Perangkat Lunak). 
+
+I specialize in both **frontend** and **backend development**, and I'm passionate about building modern web applications, learning new technologies, and solving real-world problems through code.
+
+**Let's build something awesome together!** 🚀
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+
+### Frameworks & Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/>
+
+### Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://instagram.com/akun_anda">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://facebook.com/akun_anda">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://dribbble.com/akun_anda">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
 </a>
 <a href="https://linkedin.com/in/akun_anda">
-<img src="https://www.google.com/search?q=https://imgshields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-🔥 My Stats
+</div>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drojabby%26theme%3Ddark%26hide_border%3Dtrue%26date_format%3Dj%2520M%2520Y" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drojabby%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drojabby%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Most Used Languages" />
-</p>
+## 🔥 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojabby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojabby&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojabby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rojabby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rojabby&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=rojabby&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+### ⭐ From [Rojabby](https://github.com/rojabby) with ❤️
+
+</div>
