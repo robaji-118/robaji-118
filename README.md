@@ -85,10 +85,10 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rojabby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojabby&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=robaji-118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=robaji-118&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojabby&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robaji-118&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -98,7 +98,7 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rojabby&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=robaji-118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -108,7 +108,7 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rojabby&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robaji-118&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -119,9 +119,9 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojabby/rojabby/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robaji-118/robaji-118/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robaji-118/robaji-118/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robaji-118/robaji-118/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -142,8 +142,8 @@ I specialize in both **frontend** and **backend development**, and I'm passionat
 
 ### 📈 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=rojabby&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=robaji-118&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-### ⭐ From [Rojabby](https://github.com/rojabby) with ❤️
+### ⭐ From [Rojabby](https://github.com/robaji-118) 
 
 </div>
