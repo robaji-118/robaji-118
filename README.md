@@ -81,7 +81,6 @@ I specialize in both **Frontend development**, and I'm passionate about building
 
 ---
 
-## 🔥 GitHub Stats
 
 <div align="center">
 
@@ -95,7 +94,6 @@ I specialize in both **Frontend development**, and I'm passionate about building
 ---
 
 <div align="center">
-<h1> 🏆 GitHub Trophies </h1>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=robaji-118&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
@@ -106,7 +104,7 @@ I specialize in both **Frontend development**, and I'm passionate about building
 
 <div align="center">
 
-<h1> 📊 Contribution Graph </h1>
+
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=robaji-118&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
@@ -130,7 +128,7 @@ I specialize in both **Frontend development**, and I'm passionate about building
 
 <div align="center">
 
-### 💭 Random Dev Quote
+
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
@@ -140,7 +138,7 @@ I specialize in both **Frontend development**, and I'm passionate about building
 
 <div align="center">
 
-### 📈 Profile Views
+
 
 <img src="https://komarev.com/ghpvc/?username=robaji-118&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
