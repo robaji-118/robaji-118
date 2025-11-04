@@ -6,8 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;SMKN+1+Purwosari+Student;Always+Learning+New+Tech;Building+Modern+Web+Apps;Open+Source+Enthusiast" alt="Typing SVG" />
 
-<!-- Gunakan gambar lokal dari folder images -->
-<img src="./images/1124786.jpg" width="300" alt="Coding Illustration" />
+<!-- Gambar dari folder images -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
 
 </div>
 
@@ -23,11 +24,11 @@ I'm a passionate **Frontend Developer** and a student at **SMKN 1 Purwosari** ma
 
 I specialize in **Frontend development** with modern technologies like React, Next.js, and Vue.js. I love creating beautiful, responsive, and user-friendly web applications that solve real-world problems.
 
-**🌟 Fun Facts:**
-- 🎯 Currently learning **Advanced React Patterns**
-- 💡 Passionate about **UI/UX Design**
-- 🎵 Love coding with lofi music
-- ☕ Coffee enthusiast
+**🌟 Fun Facts:**<br>
+🎯 Currently learning **Advanced React Patterns**<br>
+💡 Passionate about **UI/UX Design**<br>
+🎵 Love coding with lofi music<br>
+☕ Coffee enthusiast
 
 **Let's build something amazing together!** 🚀
 
@@ -78,14 +79,19 @@ I specialize in **Frontend development** with modern technologies like React, Ne
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=robaji-118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=robaji-118&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Stats bersebelahan menggunakan table -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robaji-118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img width="500" src="https://github-readme-stats.vercel.app/api?username=robaji-118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robaji-118&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br><br>
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=robaji-118&theme=react-dark&hide_border=true&area=true&custom_title=Rojabby's%20Contribution%20Graph" alt="Contribution Graph" />
 
@@ -121,10 +127,10 @@ I specialize in **Frontend development** with modern technologies like React, Ne
 
 ## 🎯 Currently Working On
 
-**🚀 Building awesome projects with:**
-- ⚛️ React & Next.js
-- 🎨 Tailwind CSS  
-- 🔥 Modern Web Technologies
+**🚀 Building awesome projects with:**<br>
+⚛️ React & Next.js<br>
+🎨 Tailwind CSS<br>
+🔥 Modern Web Technologies
 
 </div>
 
@@ -132,8 +138,8 @@ I specialize in **Frontend development** with modern technologies like React, Ne
 
 <div align="center">
 
-<!-- Gunakan snake dari workflow -->
-![Snake Animation](https://github.com/robaji-118/robaji-118/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation dari branch output sesuai workflow -->
+![Snake Animation](https://raw.githubusercontent.com/robaji-118/robaji-118/output/snake.svg)
 
 <br>
 
